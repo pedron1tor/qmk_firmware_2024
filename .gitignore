@@ -21,7 +21,7 @@ quantum/version.h
 .idea/
 CMakeLists.txt
 .DS_STORE
-
+/done
 # Eclipse/PyCharm/Other IDE Settings
 .cproject
 .project
